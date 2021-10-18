@@ -1,5 +1,13 @@
 # Project Name: University of Canada Website Portal
 
+## Group Members
+
+1. Saro Karimi - 
+2. Tirth Patel - 100751761
+3. Vatsal Patel -
+4. Zain Butt - 
+
+
 
 ## Requirements Description
 

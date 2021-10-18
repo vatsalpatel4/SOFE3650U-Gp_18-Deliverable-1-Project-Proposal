@@ -11,7 +11,7 @@
 
 ## Requirements Description
 
-### Functional 
+### Functional:
 
 1. Users should be able to register and login.
 2. It shall be accessible using firefox, google chrome and internet explorer.
@@ -20,7 +20,7 @@
 5. Users must be able to submit an application only if they are already signed up.
 
 
-### Non-functional
+### Non-functional:
 
 1. The program must be up-to-date
 2. The program shall be easy to navigate for users

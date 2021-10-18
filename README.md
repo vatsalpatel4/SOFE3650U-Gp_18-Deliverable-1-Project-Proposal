@@ -24,4 +24,12 @@
 
 1. The program must be up-to-date
 2. The program shall be easy to navigate for users
-3. 
+3. It must have multiple servers
+4. It must be available to users 24/7/365
+5. The program must have separate login interfaces for users and staff members
+6. Staff members must be added manually by an administrator.
+
+##
+
+Note: The requirements mentioned above are subject to change over the course of developing the program. More requirements will be added to the program while developing the program.
+

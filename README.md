@@ -41,7 +41,7 @@ This is the menu for our final project submission. By clicking each link, you wi
 
 ### [*ADD Step 1_Review Inputs*](https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/The%20Design%20Process/ADD%20Step%201_Review%20Inputs)
 
-### *[*Iteration 1*](https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/The%20Design%20Process/Iteration1)
+### [*Iteration 1*](https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/The%20Design%20Process/Iteration1)
 
 ### [*Iteration 2*](https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/The%20Design%20Process/Iteration2)
 

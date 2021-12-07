@@ -11,7 +11,7 @@
 
 Proposal folder contains project propsal that is submitted for University of Canada Course Registration.
 
-## Progress Report
+## [Progress Report](https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/Progress_Report)
 
 Progress Report folder contains use case model, system constraints and quality attributes.
 
@@ -29,4 +29,6 @@ The table highlights the most relevant quality attributes and the use cases asso
 
 ## ADD Process (Final Submission)
 
-This is the navigation bar to our final submission so you can check all the files by cliking on the links below:
+
+###https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/System%20Requirements/Use%20Case%20Model
+ *Use Cases*

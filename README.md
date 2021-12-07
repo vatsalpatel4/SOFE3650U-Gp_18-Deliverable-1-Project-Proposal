@@ -29,6 +29,22 @@ The table highlights the most relevant quality attributes and the use cases asso
 
 ## ADD Process (Final Submission)
 
+This is the menu for our final project submission. By clicking each link, you will be redirected to the file you want to check!
 
-###https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/System%20Requirements/Use%20Case%20Model
- *Use Cases*
+### *[Use cases]*https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/System%20Requirements/Use%20Case%20Model
+
+### *[Architectural Concerns]*https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/System%20Requirements/Architectural%20Concerns
+
+### *[Constraints]*https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/System%20Requirements/Constraints
+
+### *[Quality Attribute Scenarios]*https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/System%20Requirements/Quality%20Attribute%20Scenarios
+
+### *[ADD Step 1_Review Inputs]https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/The%20Design%20Process/ADD%20Step%201_Review%20Inputs
+
+### *[Iteration 1]https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/The%20Design%20Process/Iteration1
+
+### *[Iteration 2]https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/The%20Design%20Process/Iteration2
+
+### *[Iteration 3]https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/The%20Design%20Process/Iteration3
+
+

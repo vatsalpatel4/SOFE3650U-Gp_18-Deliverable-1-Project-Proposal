@@ -29,6 +29,4 @@ The table highlights the most relevant quality attributes and the use cases asso
 
 ## ADD Process (Final Submission)
 
-
-###https://github.com/vatsalpatel4/SOFE3650U-Gp_18-UniversityOfCanda_CourseRegistration/tree/main/ADD_Process/System%20Requirements/Use%20Case%20Model
- *Use Cases*
+This is the navigation bar to our final submission so you can check all the files by cliking on the links below:
